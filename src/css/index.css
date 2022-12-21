@@ -1,1 +1,11 @@
 @import './icon.less';
+body {
+  background-color: #f5f7f9;
+}
+body .page-nav-bar {
+  background-color: #3296fa;
+}
+body .page-nav-bar .van-nav-bar__title,
+body .page-nav-bar .van-icon {
+  color: #fff;
+}
